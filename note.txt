@@ -1,0 +1,19 @@
+Feb 23, 2016
+#Environment
+
+done
+----
+AWS EC2 Linux
+Node
+Express
+MongoDB
+
+
+#Design
+
+Not-done
+---
+Front-end
+Back-end connection
+
+
